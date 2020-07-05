@@ -1,0 +1,10 @@
+{'Global Quote': {'01. symbol': 'FB', '02. open': '239.0000', '03. high': '240.0000', '04. low': '232.6100', '05. price': '233.4200', '06. volume': '30635970', '07. latest trading day': '2020-07-02', '08. previous close': '237.5500', '09. change': '-4.1300', '10. change percent': '-1.7386%'}}
+The current price of FB is: 233.4200
+{'Global Quote': {'01. symbol': 'IBM', '02. open': '119.6900', '03. high': '121.4200', '04. low': '119.2600', '05. price': '119.7000', '06. volume': '3745663', '07. latest trading day': '2020-07-02', '08. previous close': '118.5400', '09. change': '1.1600', '10. change percent': '0.9786%'}}
+The current price of IBM is: 119.7000
+{'Global Quote': {'01. symbol': 'AAPL', '02. open': '367.8500', '03. high': '370.4700', '04. low': '363.6400', '05. price': '364.1100', '06. volume': '28814516', '07. latest trading day': '2020-07-02', '08. previous close': '364.1100', '09. change': '0.0000', '10. change percent': '0.0000%'}}
+The current price of AAPL is: 364.1100
+{'Global Quote': {'01. symbol': 'MDNDF', '02. open': '49.6600', '03. high': '49.6600', '04. low': '49.6600', '05. price': '49.6600', '06. volume': '0', '07. latest trading day': '2020-07-02', '08. previous close': '49.6600', '09. change': '0.0000', '10. change percent': '0.0000%'}}
+The current price of MDNDF is: 49.6600
+{'Global Quote': {'01. symbol': 'GOOG', '02. open': '1446.9400', '03. high': '1482.9500', '04. low': '1446.4200', '05. price': '1464.7000', '06. volume': '1859790', '07. latest trading day': '2020-07-02', '08. previous close': '1438.0400', '09. change': '26.6600', '10. change percent': '1.8539%'}}
+The current price of GOOG is: 1464.7000
